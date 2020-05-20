@@ -4,4 +4,5 @@ of a cross cut shredded document. This was my first attempt at coding a project 
 
 This repository doesn't contain the two trained CNNs required to run the code, as well as, sample shreds to reconstruct with associated
 csv of there shred ids.
-If you want to look at these please feel free to contact me directly.
+Additionally, the dataset used to train the CNNs is also not included.
+If you want to look at any of these please feel free to contact me directly.
